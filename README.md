@@ -1,5 +1,5 @@
 # Budget-App
-Budget App project
+
 
 Budget App project completed as part of Scientific Computing with Python Certificate completed with FreeCodeCamp
 
